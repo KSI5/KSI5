@@ -14,3 +14,31 @@
 - 📜 Favorite Quote:  All is well. Na God get power! 💪
   
 
+<div align="left">
+  <h2> <strong> 📚 Education </strong> </h2>
+ <a href="https://tryhackme.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-1ABC9C?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+
+  <a href="https://app.cybrary.it/" target="_blank">
+    <img src="https://img.shields.io/badge/Cybrary-2C3E50?style=for-the-badge&logo=cybrary&logoColor=white"/>
+</a>
+
+ <a href="https://www.netacad.com/portal/learning" target="_blank">
+    <img src="https://img.shields.io/badge/Netacad-1F427A?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+
+  <a href="https://www.udemy.com/home/my-courses/learning/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
+</a>
+
+  <a href="https://www.coursera.org/account-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+</a>
+
+  <a href="https://skills.yourlearning.ibm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
