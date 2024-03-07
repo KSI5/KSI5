@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+fam!+They+call+me+Lord+KSI.;In+all+God+is+faithful.+Na+God+get+Power;Exploring+the+world+of+coding;Creating+innovative+solutions;One+line+of+code+at+a+time)](https://git.io/typing-svg)
