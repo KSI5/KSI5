@@ -7,7 +7,7 @@
 </h3>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&center=true&vCenter=true&width=1000&size=30&lines=Software+Engineer+-+Frontend;UI/UX+Designer;Virtual+Assitant;CyberSecurity:IT+Support;Scrum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&center=true&vCenter=true&width=1000&size=30&lines=Software+Engineer+-+Frontend;UI/UX+Designer;Virtual+Assitant;CyberSecurity;IT+Support;Scrum)](https://git.io/typing-svg)
 
 - 😄 Nickname: Lord KSI
 - 📧 How to reach me: [Mail Me](mailto:Krissigebs@gmail.com)
