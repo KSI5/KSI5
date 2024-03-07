@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">
-  Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Chris Igebs!
+  Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Chris Igebs! 😉
 </h1>
 
 <h3 align="center" style="font-family: 'Poppins', sans-serif;">
@@ -11,6 +11,6 @@
 
 - 😄 Nickname: Lord KSI
 - 📧 How to reach me: [Mail Me](mailto:Krissigebs@gmail.com)
-- 📜 Favorite Quote:  Al is well. Na God get power! 💪
-- 
+- 📜 Favorite Quote:  All is well. Na God get power! 💪
+  
 
