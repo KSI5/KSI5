@@ -12,6 +12,7 @@
 - 😄 Nickname: Lord KSI
 - 📧 How to reach me: [Mail Me](mailto:Krissigebs@gmail.com)
 - 📜 Favorite Quote:  All is well. Na God get power! 💪
+- 🤝 I’m looking to collaborate on frontend projects, entry level and full-time jobs
   
 
 <div align="left">
